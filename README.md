@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-######  💬 My name is Evgeniy, I'm Junior Java Developer
-######  🌱 I’m currently learning Java
-######  🤔 I’m looking for help with Java mentoring or Java open source project
-######  📫 How to reach me: @zabozhane, evgzabozhan@gmail.com
+######  💬 My name is **Evgeniy** , I'm Junior Java Developer
+######  🌱 I’m currently learning **Java**
+######  🤔 I’m looking for help with Java mentoring or Java **open source** project
+######  📫 How to reach me: 
+              - 🗣️ **@zabozhane**,
+              - ✉️ **evgzabozhan@gmail.com**
 
 <!--
 **evgzabozhan/evgzabozhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
