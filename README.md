@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-######  💬 My name is ***Evgeniy*** , I'm Java Developer and system analyst
+######  💬 My name is ***Evgeniy*** , I'm System analyst
 ######  👁 My blog: ***www.zeoblocks.com***
 ######  🌱 I’m currently learning ***Kotlin/Java***
 ######  🤔 I’m looking for help with Kotlin/Java mentoring or Java ***open source*** project
