@@ -2,8 +2,8 @@
 
 ######  💬 My name is ***Evgeniy*** , I'm Java Developer and system analyst
 ######  👁 My blog: ***www.zeoblocks.com***
-######  🌱 I’m currently learning ***Java***
-######  🤔 I’m looking for help with Java mentoring or Java ***open source*** project
+######  🌱 I’m currently learning ***Kotlin/Java***
+######  🤔 I’m looking for help with Kotlin/Java mentoring or Java ***open source*** project
 ######  📫 How to reach me: ***evgzabozhan@gmail.com***
 
 <!--
