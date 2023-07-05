@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-######  💬 My name is ***Evgeniy*** , I'm System analyst
+######  💬 My name is ***Evgeniy***
 ######  👁 My blog: ***www.zeoblocks.com***
 ######  📫 How to reach me: ***evgzabozhan@gmail.com***
 
